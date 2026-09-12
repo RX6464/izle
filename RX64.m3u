@@ -1,0 +1,71 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TRT1" group-title="Ulusal",TRT 1
+https://trt.daioncdn.net/trt-1/master.m3u8?app=web
+#EXTINF:-1 tvg-id="ATV" group-title="Ulusal",ATV
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
+#EXTINF:-1 tvg-id="KANALD"  group-title="Ulusal",KANAL D
+https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
+#EXTINF:-1 tvg-id="EUROD"  group-title="Ulusal",EURO D
+https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
+#EXTINF:-1 tvg-id="STAR" group-title="ULUSAL",STAR
+https://dogus.daioncdn.net/startv/startv.m3u8?ce=3&app=1740db13-3ee9-4858-8d2c-b1a9cfaa3718
+#EXTINF:-1 tvg-id="SHOW" group-title="Ulusal",SHOW
+https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558
+#EXTINF:-1 tvg-id="SHOW MAX" group-title="Ulusal",SHOW MAX
+https://raw.githubusercontent.com/bnyusuf67-crypto/pydroid-yt-canli/refs/heads/main/streams/cnn_turk.m3u8
+#EXTINF:-1 tvg-id="TV8" group-title="Ulusal",TV 8
+https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
+#EXTINF:-1 tvg-id="TV85" group-title="Ulusal",TV 8 5
+https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk.m3u8
+#EXTINF:-1 tvg-id="NOW" group-title="Ulusal",NOW
+https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
+#EXTINF:-1 tvg-id="KANAL7" group-title="Ulusal",KANAL 7
+https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
+#EXTINF:-1 tvg-id="BEYAZ" group-title="Ulusal",BEYAZ
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
+#EXTINF:-1 tvg-id="NTV" group-title="Ulusal",NTV
+https://dogus.daioncdn.net/ntv/ntv.m3u8?app=ntv_web
+#EXTINF:-1 tvg-id="360" group-title="Ulusal",360
+https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
+#EXTINF:-1 tvg-id="TEVE2" group-title="Ulusal",TEVE2
+https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/teve2/teve2_1080p.m3u8
+#EXTINF:-1 tvg-id="A2" group-title="Ulusal",A2
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
+#EXTINF:-1 tvg-id="DIYANET" group-title="Ulusal",DIYANET
+https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TRT HABER" group-title="Haber",TRT HABER
+https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-id="HABERTURK" group-title="Haber",HABERTURK
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv_1080p.m3u8
+#EXTINF:-1 tvg-id="AHaber" group-title="Haber",A Haber
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber.m3u8
+#EXTINF:-1 tvg-name="Halk TV" group-title="Haber",Halk
+https://halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8
+#EXTINF:-1 tvg-name="CNN" group-title="Haber",CNN
+https://raw.githubusercontent.com/bnyusuf67-crypto/pydroid-yt-canli/refs/heads/main/streams/cnn_turk.m3u8
+#EXTINF:-1 tvg-id="TBMM" group-title="Haber",TBMM
+https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
+#EXTINF:-1 tvg-id="ASpor" group-title="Spor",A Spor
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
+#EXTINF:-1 tvg-id="TRTCocuk" group-title="Cocuk",TRT Cocuk
+https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRTGenc" group-title="Cocuk",TRT Genc
+https://tv-trtgenc.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="KRALPOP" group-title="Muzik",KRAL POP
+https://dogus.daioncdn.net/kralpoptv/kralpoptv.m3u8?app=kralpoptv_web
+#EXTINF:-1 tvg-id="POWERTURK" group-title="Muzik",POWERTURK
+http://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="POWERLOVE" group-title="Muzik",POWERLOVE
+https://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="POWERAKUSTIK" group-title="Muzik",POWERAKUSTIK
+https://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="POWERSLOW" group-title="Muzik",POWERSLOW
+https://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="POWERDANCE" group-title="Muzik",POWERDANCE
+https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="DREAMTURK" group-title="Muzik",DREAMTURK
+http://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
+#EXTINF:-1 tvg-id="POWER" group-title="Muzik",POWER
+https://live.artidijitalmedya.com/artidijital_powertv/powertv/playlist.m3u8
+#EXTINF:-1 tvg-id="TRTMUZIK" group-title="Muzik",TRT Muzik
+https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
